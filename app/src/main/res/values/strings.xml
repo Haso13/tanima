@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">site destek</string>
+    <string name="edtxt1">adsoyad</string>
+    <string name="edtxt2">e-posta</string>
+    <string name="edtxt3">telefon</string>
+    <string name="edtxt4">şifre</string>
+
+
+</resources>
